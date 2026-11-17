@@ -268,16 +268,7 @@ SQL queries, transformations, dashboard calculations, and analytical findings sh
 
 External tutorials, references, and tools used during development should be credited here.
 
-## 12. Team Contributions
 
-| Team Member | Contribution |
-|---|---|
-| [Member 1] | [Actual contribution] |
-| [Member 2] | [Actual contribution] |
-| [Member 3] | [Actual contribution] |
-| [Member 4] | [Actual contribution] |
-
-*Team contributions should accurately reflect the work performed by each member.*
 
 ---
 
